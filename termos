@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Termos de Uso</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Termos de Uso</h1>
+    <p>Bem-vindo ao nosso projeto!</p>
+    
+    <h2>1. Introdução</h2>
+    <p>Estes termos de uso descrevem as regras e diretrizes que regem a utilização deste projeto. Ao acessar ou utilizar este projeto, você concorda em cumprir estes termos.</p>
+
+    <h2>2. Uso Aceitável</h2>
+    <p>Você concorda em utilizar este projeto somente para fins legítimos e de acordo com todas as leis e regulamentos aplicáveis. Você concorda em não utilizar este projeto de forma que possa prejudicar, desabilitar, sobrecarregar ou comprometer a sua funcionalidade ou interferir no uso e aproveitamento de terceiros.</p>
+
+    <h2>3. Contribuições</h2>
+    <p>Agradecemos e incentivamos contribuições para este projeto. No entanto, ao contribuir, você declara que possui o direito de compartilhar o conteúdo e concede uma licença para uso desse conteúdo por parte dos mantenedores do projeto.</p>
+
+    <h2>4. Responsabilidades</h2>
+    <p>Este projeto é fornecido "como está", e os mantenedores não oferecem garantias de qualquer tipo. Você é responsável por qualquer uso que faça do projeto e concorda em isentar os mantenedores de qualquer responsabilidade relacionada ao seu uso.</p>
+
+    <h2>5. Modificações</h2>
+    <p>Os termos de uso deste projeto podem ser modificados a qualquer momento. Ao continuar a utilizar o projeto após tais modificações, você concorda em estar vinculado aos termos alterados.</p>
+
+    <h2>6. Contato</h2>
+    <p>Se tiver alguma dúvida ou preocupação sobre estes termos de uso, entre em contato conosco através do email: exemplo@exemplo.com</p>
+
+    <p>Última atualização: [DATA]</p>
+</body>
+</html>
